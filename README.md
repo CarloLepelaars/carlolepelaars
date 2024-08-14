@@ -1,6 +1,6 @@
-# Hi there, I'm Carlo Lepelaars 👋
+# Hi there, nice to meet you!
 
-I'm a **Data Scientist** at **CrowdCent** with a passion for **AI**, **data visualization**, and **quantum computing**. I enjoy exploring the intersections of different fields and contributing to open source.
+I'm focused on {AI, Quantum, Investing, Reading, Music}. I enjoy exploring the intersections of different fields and contributing to open source. I work as a Data Scientist with [CrowdCent](https://crowdcent.com).
 
 ---
 
@@ -19,15 +19,17 @@ Open source projects I've initiated and maintain:
 I’ve made contributions to the following open-source projects:
 
 - **[scikit-lego](https://github.com/koaning/scikit-lego)**: scikit-learn-compatible tools and extensions.
-- **[embetter](https://github.com/koaning/embetter)**: Making embedding models easily accessible.
-- **[umap-learn](https://github.com/lmcinnes/umap)**: Uniform Manifold Approximation and Projection for dimension reduction.
-- **[FastHTML-Gallery](https://github.com/carlolepelaars/FastHTML-Gallery)**: Gallery for FastHTML widgets, components, applications and visualizations.
-
+- **[FastHTML-Gallery](https://github.com/carlolepelaars/FastHTML-Gallery)**: Gallery for [FastHTML](https://fastht.ml) widgets, components, applications and visualizations.
+- **[umap](https://github.com/lmcinnes/umap)**: Uniform Manifold Approximation and Projection for dimension reduction.
+- **[embetter](https://github.com/koaning/embetter)**: Embedding models easily accessible.
+- **[numerai-tools](https://github.com/numerai/numerai-tools)**: Tools and utilities for working with Numerai data and predictions.
+- 
 ---
 
 ## 🌱 Currently exploring
-- Exploring new techniques in **quantum information and compututation**.
-- Experimenting with new **data visualization** techniques to convey insights.
+- Quantum information and computation.
+- Web development with [FastHTML](https://fastht.ml).
+- Data visualization techniques.
 
 ---
 
