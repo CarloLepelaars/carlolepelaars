@@ -8,10 +8,10 @@ I'm focused on {AI, Quantum, Investing, Reading, Music}. I enjoy exploring the i
 Open source projects I've initiated and maintain:
 
 - **[Numerblox](https://github.com/crowdcent/numerblox)**: Components for [Numerai](https://numer.ai).
-- **[blackscholes](https://github.com/carlolepelaars/blackscholes)**: Black-Scholes calculator.
-- **[fh-plotly](https://github.com/carlolepelaars/fh-plotly)**: Plotly conversion for FastHTML.
-- **[ghostnet_tf2](https://github.com/carlolepelaars/ghostnet_tf2)**: TensorFlow 2 implementation of the GhostNet architecture.
-- **[pi-digits](https://github.com/carlolepelaars/pi-digits)**: Formula for calculating the nth digit of .
+- **[blackscholes](https://github.com/carlolepelaars/blackscholes)**: Black-Scholes (financial option pricing) calculator.
+- **[fh-plotly](https://github.com/carlolepelaars/fh-plotly)**: Plotly for [FastHTML](https://fastht.ml).
+- **[ghostnet_tf2](https://github.com/carlolepelaars/ghostnet_tf2)**: TensorFlow 2 implementation of [GhostNet](https://arxiv.org/abs/1911.11907).
+- **[pi-digits](https://github.com/carlolepelaars/pi-digits)**: Formula for calculating the nth digit of π.
 
 ---
 
