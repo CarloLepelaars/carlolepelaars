@@ -7,7 +7,7 @@ I'm focused on {AI, Quantum, Investing, Reading, Music}. I enjoy exploring the i
 ## 🔥 Open Source Projects
 Open source projects I've initiated and maintain:
 
-- **[Numerblox](https://github.com/crowdcent/numerblox)**: Components for [Numerai](https://numer.ai).
+- **[Numerblox](https://github.com/crowdcent/numerblox)**: scikit-learn components for [Numerai](https://numer.ai).
 - **[blackscholes](https://github.com/carlolepelaars/blackscholes)**: Black-Scholes (financial option pricing) calculator.
 - **[fh-plotly](https://github.com/carlolepelaars/fh-plotly)**: Plotly for [FastHTML](https://fastht.ml).
 - **[ghostnet_tf2](https://github.com/carlolepelaars/ghostnet_tf2)**: TensorFlow 2 implementation of [GhostNet](https://arxiv.org/abs/1911.11907).
@@ -20,22 +20,15 @@ I’ve made contributions to the following open-source projects:
 
 - **[scikit-lego](https://github.com/koaning/scikit-lego)**: scikit-learn-compatible tools and extensions.
 - **[FastHTML-Gallery](https://github.com/carlolepelaars/FastHTML-Gallery)**: Gallery for [FastHTML](https://fastht.ml) widgets, components, applications and visualizations.
-- **[umap](https://github.com/lmcinnes/umap)**: Uniform Manifold Approximation and Projection for dimension reduction.
-- **[embetter](https://github.com/koaning/embetter)**: Embedding models easily accessible.
-- **[numerai-tools](https://github.com/numerai/numerai-tools)**: Tools and utilities for working with Numerai data and predictions.
-- 
+- **[umap](https://github.com/lmcinnes/umap)**: UMAP Dimensionality Reduction (scikit-learn implementation).
+- **[embetter](https://github.com/koaning/embetter)**: Embedding models easily accessible as scikit-learn components.
+- **[numerai-tools](https://github.com/numerai/numerai-tools)**: Tools and utilities for [Numerai](https://numer.ai).
+  
 ---
 
 ## 🌱 Currently exploring
 - Quantum information and computation.
 - Web development with [FastHTML](https://fastht.ml).
 - Data visualization techniques.
-
----
-
-## 💬 Let's Connect!
-- Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/carlolepelaars/) or [X](https://x.com/carlolepelaars).
-
----
 
 ![Carlo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlolepelaars&show_icons=true)
