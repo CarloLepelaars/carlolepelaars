@@ -31,4 +31,4 @@ I’ve made contributions to the following open-source projects:
 - Web development with [FastHTML](https://fastht.ml).
 - Data visualization techniques.
 
-![Carlo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlolepelaars&show_icons=true)
+![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlolepelaars&theme=github)
