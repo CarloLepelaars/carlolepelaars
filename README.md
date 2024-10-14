@@ -1,6 +1,6 @@
 # Hi there, nice to meet you!
 
-I'm focused on {AI, Quantum, Investing, Reading, Music}. I enjoy exploring the intersections of different fields and contributing to open source. I work as a Data Scientist with [CrowdCent](https://crowdcent.com).
+I'm focused on {AI, Quantum, Investing, Reading, Music}. I enjoy exploring intersections of different fields and contributing to open source. I work as a Data Scientist with [CrowdCent](https://crowdcent.com).
 
 ---
 
