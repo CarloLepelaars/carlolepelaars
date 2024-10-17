@@ -19,6 +19,7 @@ Open source projects I've initiated and maintain:
 I’ve made contributions to the following open-source projects:
 
 - **[scikit-lego](https://github.com/koaning/scikit-lego)**: scikit-learn tools and extensions.
+- **[Narwhals](https://github.com/narwhals-dev/narwhals)**: Compatibility layer between DataFrame libraries (Pandas, Polars, PyArrow, Dask, etc.).
 - **[FastHTML-Gallery](https://github.com/carlolepelaars/FastHTML-Gallery)**: Gallery for [FastHTML](https://fastht.ml) widgets, components, applications and visualizations.
 - **[umap](https://github.com/lmcinnes/umap)**: UMAP Dimensionality Reduction (scikit-learn implementation).
 - **[embetter](https://github.com/koaning/embetter)**: Embedding models easily accessible as scikit-learn components.
