@@ -5,7 +5,7 @@ I'm focused on {AI, Quantum, Investing, Reading, Music}. I enjoy exploring inter
 ---
 
 ## 🔥 Open Source Projects
-Open source projects I've initiated and maintain:
+Projects I've initiated and maintain:
 
 - **[numerblox](https://github.com/crowdcent/numerblox)**: scikit-learn components for [Numerai](https://numer.ai).
 - **[blackscholes](https://github.com/carlolepelaars/blackscholes)**: Black-Scholes (financial option pricing) calculator.
@@ -16,7 +16,7 @@ Open source projects I've initiated and maintain:
 ---
 
 ## 🛠️ Contributions
-I’ve made contributions to the following open-source projects:
+I’ve made contributions to the following projects:
 
 - **[scikit-lego](https://github.com/koaning/scikit-lego)**: scikit-learn tools and extensions.
 - **[narwhals](https://github.com/narwhals-dev/narwhals)**: Compatibility layer between DataFrame libraries (Pandas, Polars, PyArrow, Dask, etc.).
