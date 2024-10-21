@@ -20,16 +20,16 @@ I’ve made contributions to the following projects:
 
 - **[scikit-lego](https://github.com/koaning/scikit-lego)**: scikit-learn tools and extensions.
 - **[narwhals](https://github.com/narwhals-dev/narwhals)**: Compatibility layer between DataFrame libraries (Pandas, Polars, PyArrow, Dask, etc.).
-- **[FastHTML-Gallery](https://github.com/carlolepelaars/FastHTML-Gallery)**: Gallery for [FastHTML](https://fastht.ml) widgets, components, applications and visualizations.
-- **[umap](https://github.com/lmcinnes/umap)**: UMAP Dimensionality Reduction (scikit-learn implementation).
+- **[FastHTML-Gallery](https://github.com/carlolepelaars/FastHTML-Gallery)**: Gallery for [FastHTML](https://fastht.ml) widgets, components, apps and visualizations.
+- **[umap](https://github.com/lmcinnes/umap)**: Dimensionality Reduction.
 - **[embetter](https://github.com/koaning/embetter)**: Embedding models easily accessible as scikit-learn components.
-- **[numerai-tools](https://github.com/numerai/numerai-tools)**: Tools and utilities for [Numerai](https://numer.ai).
+- **[numerai-tools](https://github.com/numerai/numerai-tools)**: Utilities for [Numerai](https://numer.ai).
   
 ---
 
 ## 🌱 Currently exploring
-- Quantum information and computation.
 - Web development with [FastHTML](https://fastht.ml).
 - Data visualization techniques.
+- Quantum information and computation.
 
 ![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlolepelaars&theme=github)
