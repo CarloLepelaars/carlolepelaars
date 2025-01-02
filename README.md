@@ -9,7 +9,7 @@ Projects I've initiated and maintain:
 
 - **[numerblox](https://github.com/crowdcent/numerblox)**: scikit-learn components for [Numerai](https://numer.ai).
 - **[blackscholes](https://github.com/carlolepelaars/blackscholes)**: Black-Scholes (financial option pricing) calculator.
-- **[q4p](carlo.ai/q4p)**: Quantum Computing for (Python) Programmers course.
+- **[q4p](https://github.com/CarloLepelaars/q4p)**: Quantum Computing for (Python) Programmers course.
 - **[fh-plotly](https://github.com/carlolepelaars/fh-plotly)**: Plotly to [FastHTML](https://fastht.ml) conversion.
 - **[ghostnet_tf2](https://github.com/carlolepelaars/ghostnet_tf2)**: TensorFlow 2 implementation of [GhostNet](https://arxiv.org/abs/1911.11907).
 - **[pi-digits](https://github.com/carlolepelaars/pi-digits)**: Formula for calculating the nth digit of π.
