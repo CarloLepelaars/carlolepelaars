@@ -13,7 +13,7 @@ Projects I've initiated and maintain:
 - **[q4p](https://github.com/CarloLepelaars/q4p)**: Quantum Computing for (Python) Programmers course.
 - **[skq](https://github.com/CarloLepelaars/skq)**: Scientific toolkit for Quantum Computing. Used in the [q4p](https://github.com/CarloLepelaars/q4p) course.
 - **[fh-plotly](https://github.com/carlolepelaars/fh-plotly)**: Plotly to [FastHTML](https://fastht.ml) conversion.
-- **[flocky](https://github.com/CarloLepelaars/flocky)**: Simple SDK for decentralized AI platform [Flock.io](https://www.flock.io/).
+- **[flocky](https://github.com/CarloLepelaars/flocky)**: Simple SDK for the decentralized AI platform [Flock.io](https://www.flock.io/).
 - **[ghostnet_tf2](https://github.com/carlolepelaars/ghostnet_tf2)**: TensorFlow 2 implementation of [GhostNet](https://arxiv.org/abs/1911.11907).
 - **[pi-digits](https://github.com/carlolepelaars/pi-digits)**: Formula for calculating the nth digit of π.
 
