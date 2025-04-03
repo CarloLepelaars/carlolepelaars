@@ -13,6 +13,7 @@ Projects I've initiated and maintain:
 - **[q4p](https://github.com/CarloLepelaars/q4p)**: Quantum Computing for (Python) Programmers course.
 - **[skq](https://github.com/CarloLepelaars/skq)**: Scientific toolkit for Quantum Computing. Used in the [q4p](https://github.com/CarloLepelaars/q4p) course.
 - **[fh-plotly](https://github.com/carlolepelaars/fh-plotly)**: Plotly to [FastHTML](https://fastht.ml) conversion.
+- **[flocky](https://github.com/CarloLepelaars/flocky)**: Simple SDK for decentralized AI platform [Flock.io](https://www.flock.io/).
 - **[ghostnet_tf2](https://github.com/carlolepelaars/ghostnet_tf2)**: TensorFlow 2 implementation of [GhostNet](https://arxiv.org/abs/1911.11907).
 - **[pi-digits](https://github.com/carlolepelaars/pi-digits)**: Formula for calculating the nth digit of π.
 
@@ -24,6 +25,7 @@ I’ve made contributions to the following projects:
 - **[scikit-lego](https://github.com/koaning/scikit-lego)**: scikit-learn tools and extensions.
 - **[narwhals](https://github.com/narwhals-dev/narwhals)**: Compatibility layer between DataFrame libraries (Pandas, Polars, PyArrow, Dask, etc.).
 - **[FastHTML-Gallery](https://github.com/carlolepelaars/FastHTML-Gallery)**: Gallery for [FastHTML](https://fastht.ml) widgets, components, apps and visualizations.
+- **[fastcore](https://github.com/AnswerDotAI/fastcore)**: Features which augment and supercharge programming in Python.
 - **[umap](https://github.com/lmcinnes/umap)**: Dimensionality Reduction.
 - **[embetter](https://github.com/koaning/embetter)**: Embedding models easily accessible as scikit-learn components.
 - **[numerai-tools](https://github.com/numerai/numerai-tools)**: Utilities for [Numerai](https://numer.ai).
@@ -32,7 +34,8 @@ I’ve made contributions to the following projects:
 
 ## 🌱 Currently exploring
 - Web development with [FastHTML](https://fastht.ml).
-- Data visualization techniques.
+- Multimodal models (text+vision+audio).
+- Novel data visualization techniques.
 - Quantum information and computation.
 
 ![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlolepelaars&theme=github)
