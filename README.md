@@ -9,6 +9,7 @@ Projects I've initiated and maintain:
 
 - **[numerblox](https://github.com/crowdcent/numerblox)**: scikit-learn components for [Numerai](https://numer.ai).
 - **[blackscholes](https://github.com/carlolepelaars/blackscholes)**: Black-Scholes (financial option pricing) calculator.
+- **[musy](https://github.com/carlolepelaars/musy)**: Toolbox for analyzing, creating and visualizing music.
 - **[auditus](https://github.com/CarloLepelaars/auditus)**: Simple Audio Embeddings.
 - **[q4p](https://github.com/CarloLepelaars/q4p)**: Quantum Computing for (Python) Programmers course.
 - **[skq](https://github.com/CarloLepelaars/skq)**: Scientific toolkit for Quantum Computing. Used in the [q4p](https://github.com/CarloLepelaars/q4p) course.
