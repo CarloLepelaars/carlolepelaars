@@ -1,6 +1,6 @@
 # Hi there, nice to meet you!
 
-I'm focused on {AI, Quantum, Investing, Reading, Music}. I enjoy exploring intersections of different fields and contributing to open source.
+I'm focused on {AI, Investing, Reading, Music}. I enjoy exploring intersections of different fields and contributing to open source.
 
 ---
 
@@ -8,6 +8,7 @@ I'm focused on {AI, Quantum, Investing, Reading, Music}. I enjoy exploring inter
 Projects I've initiated and maintain:
 
 - **[numerblox](https://github.com/crowdcent/numerblox)**: scikit-learn components for [Numerai](https://numer.ai).
+- **[irouter](https://github.com/CarloLepelaars/irouter)**: Access 100s of LLMs with 2 lines of code (through openrouter.ai).
 - **[blackscholes](https://github.com/carlolepelaars/blackscholes)**: Black-Scholes (financial option pricing) calculator.
 - **[musy](https://github.com/carlolepelaars/musy)**: Toolbox for analyzing, creating and visualizing music.
 - **[auditus](https://github.com/CarloLepelaars/auditus)**: Simple Audio Embeddings.
@@ -34,8 +35,9 @@ I’ve made contributions to the following projects:
 ---
 
 ## 🌱 Currently exploring
-- Web development with [FastHTML](https://fastht.ml).
 - Multimodal models (text+vision+audio).
+- Claude Code, Kimi, Openrouter.ai, Context Engineering.
+- Web development with [FastHTML](https://fastht.ml).
 - Novel data visualization techniques.
 - Quantum information and computation.
 
