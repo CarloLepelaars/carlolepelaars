@@ -35,11 +35,12 @@ I’ve made contributions to the following projects:
 ---
 
 ## 🌱 Currently exploring
-- Multimodal models (text+vision+audio).
-- Claude Code, Kimi, Openrouter.ai, Context Engineering.
+- [Answer.AI's SolveIt platform](https://solve.it.com/?via_id=6d8egyvx)
+- Using LLMs to solve problems effectively instead of outsourcing all your work to LLMs.
 - Web development with [FastHTML](https://fastht.ml).
+- Multimodal models (text+vision+audio).
+- Openrouter.ai, Context Engineering.
 - Novel data visualization techniques.
-- Quantum information and computation.
 
 ![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlolepelaars&theme=github)
 
