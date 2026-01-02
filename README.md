@@ -36,10 +36,11 @@ I’ve made contributions to the following projects:
 
 ## 🌱 Currently exploring
 - [Answer.AI's SolveIt platform](https://solve.it.com/?via_id=6d8egyvx)
-- Using LLMs to solve problems effectively instead of outsourcing all your work to LLMs.
+- GPU Programming (CUDA, WebGPU, rust-gpu, etc.).
 - Web development with [FastHTML](https://fastht.ml).
+- Decentralized AI (Numerai, Flock.io, CrowdCent Challenge, BitTensor, etc.)
 - Multimodal models (text+vision+audio).
-- Openrouter.ai, Context Engineering.
+- Effective LLM usage: Openrouter.ai, Context Engineering, etc.
 - Novel data visualization techniques.
 
 ![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlolepelaars&theme=github)
