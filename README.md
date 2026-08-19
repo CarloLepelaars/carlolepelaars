@@ -1,6 +1,4 @@
-# Hi there, nice to meet you!
-
-I'm focused on {AI, Investing, Reading, Music}. I enjoy exploring intersections of different fields and contributing to open source.
+I'm working as a Software Engineering Specialist at SpaceXAI. I enjoy exploring intersections of different fields and contributing to open source.
 
 ---
 
@@ -34,14 +32,12 @@ I’ve made contributions to the following projects:
   
 ---
 
-## 🌱 Currently exploring
+## 🌱 Exploring
 - [Answer.AI's SolveIt platform](https://solve.it.com/?via_id=6d8egyvx)
 - GPU Programming (CUDA, WebGPU, rust-gpu, etc.).
 - Web development with [FastHTML](https://fastht.ml).
 - Decentralized AI (Numerai, Flock.io, CrowdCent Challenge, BitTensor, etc.)
 - Multimodal models (text+vision+audio).
-- Effective LLM usage: Openrouter.ai, Context Engineering, etc.
-- Novel data visualization techniques.
 
 ![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlolepelaars&theme=github)
 
