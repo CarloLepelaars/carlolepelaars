@@ -33,11 +33,9 @@ I’ve made contributions to the following projects:
 ---
 
 ## 🌱 Exploring
-- [Answer.AI's SolveIt platform](https://solve.it.com/?via_id=6d8egyvx)
-- GPU Programming (CUDA, WebGPU, rust-gpu, etc.).
-- Web development with [FastHTML](https://fastht.ml).
-- Decentralized AI (Numerai, Flock.io, CrowdCent Challenge, BitTensor, etc.)
-- Multimodal models (text+vision+audio).
+- [SolveIt](https://solve.it.com/?via_id=6d8egyvx)
+- GPU Programming (CUDA, WebGPU, rust-gpu)
+- [FastHTML](https://fastht.ml) Web Development
 
 ![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlolepelaars&theme=github)
 
