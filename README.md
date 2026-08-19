@@ -1,4 +1,4 @@
-I'm working as a Software Engineering Specialist at SpaceXAI. I enjoy exploring intersections of different fields and contributing to open source.
+Software Engineering Specialist at [SpaceXAI](https://github.com/xai-org). I enjoy exploring intersections of different fields and contributing to open source.
 
 ---
 
