@@ -23,10 +23,11 @@ Software Engineering Specialist at [SpaceXAI](https://github.com/xai-org)
 - **[embetter](https://github.com/koaning/embetter)**: Embedding models as scikit-learn components
 - **[numerai-tools](https://github.com/numerai/numerai-tools)**: Utilities for [Numerai](https://numer.ai).
 
-## Exploring
+## Learning
+- GPU Programming
 - [SolveIt](https://solve.it.com/?via_id=6d8egyvx)
 - [FastHTML](https://fastht.ml)
-- GPU Programming
+- Context Engineering
 
 ![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlolepelaars&theme=github)
 
