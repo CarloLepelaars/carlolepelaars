@@ -9,7 +9,7 @@ SWE Specialist at [SpaceXAI](https://github.com/xai-org)
 - **[carlocontext](https://github.com/CarloLepelaars/carlocontext)**: My context engineering marketplace.
 - **[musy](https://github.com/carlolepelaars/musy)**: Toolbox for analyzing, creating and visualizing music
 - **[q4p](https://github.com/CarloLepelaars/q4p)**: Quantum Computing for (Python) Programmers course
-- **[skq](https://github.com/CarloLepelaars/skq)**: Scientific toolkit for Quantum Computing. Used in the [q4p](https://github.com/CarloLepelaars/q4p) course
+- **[skq](https://github.com/CarloLepelaars/skq)**: Scientific toolkit for Quantum Computing. Used in the q4p course
 - **[fh-plotly](https://github.com/carlolepelaars/fh-plotly)**: Plotly to FastHTML conversion
 - **[flocky](https://github.com/CarloLepelaars/flocky)**: Simple SDK for Flock.io
 
