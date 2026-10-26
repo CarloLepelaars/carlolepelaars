@@ -1,5 +1,3 @@
-SWE Specialist at [SpaceXAI](https://github.com/xai-org)
-
 ## Open Source Projects
 
 - **[numerblox](https://github.com/crowdcent/numerblox)**: scikit-learn components for Numerai
