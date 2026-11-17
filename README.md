@@ -1,4 +1,4 @@
-[R&D @AnswerAI](https://www.answer.ai)
+R&D [@AnswerAI](https://www.answer.ai)
 
 ## Personal OSS Projects
 
